@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quinoah
 
-- 🌱 CTO at alt.co . 
+- 🌱 fractional CTO at alt.co . 
 
 <!---
 quinoah/quinoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
